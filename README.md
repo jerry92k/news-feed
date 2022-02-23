@@ -1,2 +1,2 @@
-# news-feed
-news-feed 구현해보기
+# News Feed 학습 저장소
+뉴스피드를 구현해보는 학습 저장소 입니다.
